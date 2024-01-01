@@ -1,0 +1,5 @@
+nyu_human_masks/
+nyu_human_scenes/
+slurm/
+smpl_output/
+data/
